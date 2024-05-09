@@ -3,7 +3,7 @@
 Inventory Management System
 
 The goal of this system is to build a light-weight inventory management system for companies who can't afford robust 
-systems. This also has the goal of helping companies who build parts out of small componenets that share functionality 
+systems. This also has the goal of helping companies who build parts out of small components that share functionality 
 across different SKU's.
 1. **Backend**:
     - **Framework**: Flask
